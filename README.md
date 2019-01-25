@@ -10,33 +10,33 @@ Create the GUI application main window.
 Add one or more of the above-mentioned widgets to the GUI application.
 
 Enter the main event loop to take action against each event triggered by the user.
-Tk provides the following widgets:
+##Tk provides the following widgets:
 
-button
-canvas
-checkbutton
-combobox
-entry
-frame
-label
-labelframe
-listbox
-menu
-menubutton
-message
-notebook
-tk_optionMenu
-panedwindow
-progressbar
-radiobutton
-scale
-scrollbar
-separator
-sizegrip
-spinbox
-text
-treeview
-It provides the following top-level windows:
+            **button**
+            **canvas**
+            **checkbutton**
+            **combobox**
+            **entry**
+            **frame**
+            **label**
+            **labelframe**
+            **listbox**
+            **menu**
+            **menubutton**
+            **message**
+            **notebook**
+            **tk_optionMenu**
+            **panedwindow**
+            **progressbar**
+            **radiobutton**
+            **scale**
+            **scrollbar**
+            **separator**
+            **sizegrip**
+            **spinbox**
+            **text**
+            **treeview**
+##It provides the following top-level windows:
 tk_chooseColor - pops up a dialog box for the user to select a color.
 tk_chooseDirectory - pops up a dialog box for the user to select a directory.
 tk_dialog - creates a modal dialog and waits for a response.
